@@ -22,7 +22,7 @@ A PFM app would allow clients or small businesses to track their expenditures, s
 ## Digital Credit App
 Digital Credit Applications are client-facing apps for the self-service application for, disbursement, and repayment of loans via a mobile phone. Leveraging mobile money, this lending limits in-person contact facilitating low-cost lending based on loan origination guided by big data and advanced analytics. 
 
-<img src="mobileapps.github.io/Screenshot_20170913-085024.jpg" width="300">
+<img src="/mobileapps.github.io/Screenshot_20170913-085024.jpg" width="300">
 
 # Mobile Wallets
 In all the following use cases below, the mobile wallet app provides a richer user interface to manage mobile or e-money balances as a store of value and a means of payment. The differences between the solutions outlined below are the holder of the wallet (client vs. merchant) and scope of the wallet (single digital money service vs multiple balances). 
