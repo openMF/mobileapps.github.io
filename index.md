@@ -12,8 +12,17 @@ Included on this page is information related to apps built on top of Fineract 1.
 
 ## Mobile Banking App: 
 Mobile Banking Applications are essentially a mobile interface to allow for a client to interact with the accounts they hold at a financial institution - typically they can view details of their loan/savings accounts, transfer money between accounts, and transfer money to other users. 
-- Mifos Mobile (Fineract 1.x)
-- Mifos Mobile CN (Fineract CN)
+
+### Mifos Mobile (Fineract 1.x)
+Currently in its 3rd version, this is the reference mobile banking app built on top of Mifos X/Fineract 1.x that consumes the self-service APIs. It can be used out of the box or white-labeled for your institution. 
+
+<img src="/Screen-Shot-2017-08-01-at-4.14.32-PM.png" width="300">
+
+### Mifos Mobile CN (Fineract CN)
+Currently in its first version, this is the reference mobile banking app built on top of Fineract CN - it currently only consumes a mock layer of data and is still to be integrated with the API gateway for Fineract CN. 
+
+
+<img src="/68747470733a2f2f692e696d6775722e636f6d2f35534d506b69322e676966 (1).gif" width="300">
 
 ## Personal Financial Management App
 A PFM app would allow clients or small businesses to track their expenditures, savings, and cash flows to have better visibility into their financial well-being. This could be built as a stand-alone app or functionality as subset of a mobile wallet, mobile banking or digital credit app.
@@ -95,12 +104,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openMF/mobileapps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
