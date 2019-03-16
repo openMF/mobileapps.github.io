@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Mobile Applications
 
 Built on top of the Fineract APIs, the Mifos Initiative maintains a suite of staff and client-facing mobile apps to enable field-based operations and deliver an omni-channel banking experience for clients.
 
@@ -21,6 +21,9 @@ A PFM app would allow clients or small businesses to track their expenditures, s
 
 ## Digital Credit App
 Digital Credit Applications are client-facing apps for the self-service application for, disbursement, and repayment of loans via a mobile phone. Leveraging mobile money, this lending limits in-person contact facilitating low-cost lending based on loan origination guided by big data and advanced analytics. 
+
+[Image](mobileapps.github.io/Screenshot_20170913-085024.jpg)
+      
 
 
 
@@ -47,7 +50,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
