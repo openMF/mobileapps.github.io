@@ -22,7 +22,7 @@ A PFM app would allow clients or small businesses to track their expenditures, s
 ## Digital Credit App
 Digital Credit Applications are client-facing apps for the self-service application for, disbursement, and repayment of loans via a mobile phone. Leveraging mobile money, this lending limits in-person contact facilitating low-cost lending based on loan origination guided by big data and advanced analytics. 
 
-![Image](/Screenshot_20170913-085024.jpg =100x)
+![Image](/Screenshot_20170913-085024.jpg =100x50)
       
 
 
