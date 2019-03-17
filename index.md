@@ -26,6 +26,8 @@ Currently in its first version, this is the reference mobile banking app built o
 <img src="/assets/img/Screenshot_20170913-085024.jpg" width="300">
 
 ![Mifos Mobile](/assets/img/ezgif-1-db53f1e385d1.gif)
+
+![Mifos Mobile CN](/assets/img/mifos-mobile-cn.jpg)
       
 <img src="/68747470733a2f2f692e696d6775722e636f6d2f35534d506b69322e676966 (1).gif" width="300">
 
