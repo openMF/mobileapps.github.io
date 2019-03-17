@@ -15,8 +15,8 @@ Mobile Banking Applications are essentially a mobile interface to allow for a cl
 
 ### Mifos Mobile (Fineract 1.x)
 Currently in its 3rd version, this is the reference mobile banking app built on top of Mifos X/Fineract 1.x that consumes the self-service APIs. It can be used out of the box or white-labeled for your institution. 
-
-<img src="/Screen-Shot-2017-08-01-at-4.14.32-PM.png" width="300">
+      
+<img src="https://mobileapps.github.io/Screen-Shot-2017-08-01-at-4.14.32-PM.png" width="300">
 
 ### Mifos Mobile CN (Fineract CN)
 Currently in its first version, this is the reference mobile banking app built on top of Fineract CN - it currently only consumes a mock layer of data and is still to be integrated with the API gateway for Fineract CN. 
