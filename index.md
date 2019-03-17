@@ -16,7 +16,7 @@ Mobile Banking Applications are essentially a mobile interface to allow for a cl
 ### Mifos Mobile (Fineract 1.x)
 Currently in its 3rd version, this is the reference mobile banking app built on top of Mifos X/Fineract 1.x that consumes the self-service APIs. It can be used out of the box or white-labeled for your institution. 
       
-<img src="https://github.com/openMF/mobileapps.github.io/Screen-Shot-2017-08-01-at-4.14.32-PM.png" width="300">
+![Mifos Mobile](/assets/img/mifos-mobile.png)
 <img src="https://github.com/openMF/mobileapps.github.io/blob/master/68747470733a2f2f692e696d6775722e636f6d2f654e62465678302e676966%20(1).gif" width="300">
 
 ### Mifos Mobile CN (Fineract CN)
@@ -45,7 +45,7 @@ In all the following use cases below, the mobile wallet app provides a richer us
 ## Consumer Wallet (single service)
 Mifos X/Fineract can be used to as a back-end account management system for mobile wallets. In this example a telco or mobile money provider or e-money issuer in general, could build upon the mobile wallet to provide a client or end user a richer user interface to fund their mobile wallet account, initiate transfers, view account details and transaction histories, and pay merchants at point of sale.
 
-<img src="/Screen-Shot-2017-08-08-at-6.48.27-AM (1).png" width="300">
+![Mobile Wallet](/assets/img/mobile-wallet.png)
 
 ## Consumer Wallet
 A broader definition for the mobile wallet could be a wallet app like Google or Apple Pay whereby the wallet provides the ability to add multiple digital forms of payment in one unified account - this provides one interface in which to manage multiple digital money services, or even the ability to transfer between these digital money services.
@@ -61,7 +61,7 @@ Similar to a consumer wallet, this would be a mobile wallet account for a mercha
 ### Mifos Android Client (Mifos Droid)
 The Field Operations App enables a loan or field officer to conduct their daily operations while out in the field - it doesn’t aim to replicate the full functionality of the staff-facing web app but rather those essential operations for out in the field such as client onboarding, collections, loan origination, etc. A loan officer should be able to view and edit clients and their accounts both on and offline via the app. 
 
-<img src="/Screen-Shot-2017-08-08-at-6.47.45-AM (1).png" width="300">
+![Android Client](/assets/img/android-client.png)
 
 
 ### Fineract CN Mobile
