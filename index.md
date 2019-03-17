@@ -50,8 +50,15 @@ Similar to a consumer wallet, this would be a mobile wallet account for a mercha
 # Field-Based Operations (Staff)
 
 ## Field Operations Application (Internal Staff)
-- Mifos Android Client (Mifos Droid: The Field Operations App enables a loan or field officer to conduct their daily operations while out in the field - it doesn’t aim to replicate the full functionality of the staff-facing web app but rather those essential operations for out in the field such as client onboarding, collections, loan origination, etc. A loan officer should be able to view and edit clients and their accounts both on and offline via the app. 
-- Fineract CN Mobile: Similar to the scope of Android Client for Fineract 1.x, this is the equivalent app but on top of Fineract CN. 
+
+### Mifos Android Client (Mifos Droid)
+The Field Operations App enables a loan or field officer to conduct their daily operations while out in the field - it doesn’t aim to replicate the full functionality of the staff-facing web app but rather those essential operations for out in the field such as client onboarding, collections, loan origination, etc. A loan officer should be able to view and edit clients and their accounts both on and offline via the app. 
+
+<img src="/Screen-Shot-2017-08-08-at-6.47.45-AM (1).png" width="300">
+
+
+### Fineract CN Mobile
+Similar to the scope of Android Client for Fineract 1.x, this is the equivalent app but on top of Fineract CN. 
 
 # Third Party/Agent Banking (External Staff)
 This is a mobile app to enable a network of third party staff or agents to conduct operations on behalf of the financial institution or network - these would include operations similar to that of the field operations app (client onboarding, collections, origination) but a deeper feature set including bill payments, e-commerce, and other merchant services. Given these are external agents, functionality around management of the agent is more robust including location tracking, task assignment and management, communications/notifications, handling of commissions, performance tracking, agent training and tracking of time. 
