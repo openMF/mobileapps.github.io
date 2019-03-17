@@ -22,6 +22,9 @@ Currently in its 3rd version, this is the reference mobile banking app built on 
 ### Mifos Mobile CN (Fineract CN)
 Currently in its first version, this is the reference mobile banking app built on top of Fineract CN - it currently only consumes a mock layer of data and is still to be integrated with the API gateway for Fineract CN. 
 
+
+<img src="/assets/img/Screenshot_20170913-085024.jpg" width="300">
+      
 <img src="/68747470733a2f2f692e696d6775722e636f6d2f35534d506b69322e676966 (1).gif" width="300">
 
 ## Personal Financial Management App
