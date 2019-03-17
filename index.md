@@ -31,10 +31,13 @@ A PFM app would allow clients or small businesses to track their expenditures, s
 ## Digital Credit App
 Digital Credit Applications are client-facing apps for the self-service application for, disbursement, and repayment of loans via a mobile phone. Leveraging mobile money, this lending limits in-person contact facilitating low-cost lending based on loan origination guided by big data and advanced analytics. 
 
-<img src="/Screenshot_20170913-085024.jpg" width="300">
 
 # Mobile Wallets
-In all the following use cases below, the mobile wallet app provides a richer user interface to manage mobile or e-money balances as a store of value and a means of payment. The differences between the solutions outlined below are the holder of the wallet (client vs. merchant) and scope of the wallet (single digital money service vs multiple balances). 
+In all the following use cases below, the mobile wallet app provides a richer user interface to manage mobile or e-money balances as a store of value and a means of payment. The differences between the solutions outlined below are the holder of the wallet (client vs. merchant) and scope of the wallet (single digital money service vs multiple balances).
+
+<img src="/mobileapps.github.io/Screen-Shot-2017-08-08-at-6.48.27-AM (1).png" width="300">
+
+
 ## Consumer Wallet (single service)
 Mifos X/Fineract can be used to as a back-end account management system for mobile wallets. In this example a telco or mobile money provider or e-money issuer in general, could build upon the mobile wallet to provide a client or end user a richer user interface to fund their mobile wallet account, initiate transfers, view account details and transaction histories, and pay merchants at point of sale.
 - Mobile Wallet
@@ -66,6 +69,10 @@ This is a mobile app to enable a network of third party staff or agents to condu
 - [Latest Progress](https://gist.github.com/miPlodder/2c872981e9a05be7e5fe65f5f05c31f9)
 
 ### Mifos Mobile CN
+- [Find the Code](https://github.com/openMF/mifos-mobile-cn)
+- [Download most Recent Build](https://drive.google.com/open?id=1AaNv-mHXs6q33N-sVJUf2wVEhhiHbV-D)
+- [Roadmap/Issue Tracker](https://github.com/openMF/mifos-mobile-cn/issues)
+- [Latest Progress](https://gist.github.com/ivary43/2021a4f8b9202884e7ed52128cedcccf)
 
 ### Mobile Wallet
 - [Find the Code](https://github.com/openMF/mobile-wallet)
@@ -97,4 +104,4 @@ There is no reference digital credit app but good examples from the community th
 - [Roadmap/Issue Tracker](https://github.com/apache/fineract-cn-mobile/issues)
 - [Latest Progress](https://github.com/mohak1712/fineract-cn-mobile-1/wiki)
 
-There is no reference application for a appp for managing external third party staff but partners like Mann India have built solutions like [Mimo](https://www.youtube.com/watch?v=JEIxgh6FH1w) 
+There is no reference application for an app for managing external third party staff but partners like Mann India have built solutions like [Mimo](https://www.youtube.com/watch?v=JEIxgh6FH1w) 
