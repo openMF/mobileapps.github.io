@@ -50,7 +50,7 @@ Similar to a consumer wallet, this would be a mobile wallet account for a mercha
 
 ## Field Operations Application (Internal Staff)
 - Mifos Android Client (Mifos Droid: The Field Operations App enables a loan or field officer to conduct their daily operations while out in the field - it doesn’t aim to replicate the full functionality of the staff-facing web app but rather those essential operations for out in the field such as client onboarding, collections, loan origination, etc. A loan officer should be able to view and edit clients and their accounts both on and offline via the app. 
-- Fineract CN Mobile
+- Fineract CN Mobile: Similar to the scope of Android Client for Fineract 1.x, this is the equivalent app but on top of Fineract CN. 
 
 # Third Party/Agent Banking (External Staff)
 This is a mobile app to enable a network of third party staff or agents to conduct operations on behalf of the financial institution or network - these would include operations similar to that of the field operations app (client onboarding, collections, origination) but a deeper feature set including bill payments, e-commerce, and other merchant services. Given these are external agents, functionality around management of the agent is more robust including location tracking, task assignment and management, communications/notifications, handling of commissions, performance tracking, agent training and tracking of time. 
@@ -60,9 +60,27 @@ This is a mobile app to enable a network of third party staff or agents to condu
 ## Client Apps
 
 ### Mifos Mobile
+- [Find the Code](https://github.com/openMF/mifos-mobile)
+- [Download most Recent Build](https://drive.google.com/open?id=1AaNv-mHXs6q33N-sVJUf2wVEhhiHbV-D)
+- [Roadmap/Issue Tracker](https://github.com/openMF/mifos-mobile/issues)
+- [Latest Progress](https://gist.github.com/miPlodder/2c872981e9a05be7e5fe65f5f05c31f9)
+
 ### Mifos Mobile CN
+
 ### Mobile Wallet
+- [Find the Code](https://github.com/openMF/mobile-wallet)
+- [Download most Recent Build]
+- [Roadmap/Issue Tracker](https://github.com/openMF/mobile-wallet/issues)
+- [Latest Progress](https://gist.github.com/ankurs287/d9ef88cedcebe678f09fd555b17c7546)
+
 ### FiinWallet
+- [Find the Code](https://github.com/openMF/fiinwallet)
+- [Download most Recent Build]
+- [Roadmap/Issue Tracker](https://github.com/openMF/fiinwallet/issues)
+- [Latest Progress]
+
+There is no reference digital credit app but good examples from the community that use Mifos on the back-end for loan management are Kwikcash from Mines.io and RuPie.  
+
 
 
 ## Staff Apps
@@ -74,34 +92,9 @@ This is a mobile app to enable a network of third party staff or agents to condu
 - [Latest Progress](https://medium.com/@gaksh007/my-gsoc-journey-with-mifos-initiative-7165a961ea55)
 
 ### Fineract CN Mobile
+- [Find the Code](https://github.com/apache/fineract-cn-mobile)
+- [Download most Recent Build]
+- [Roadmap/Issue Tracker](https://github.com/apache/fineract-cn-mobile/issues)
+- [Latest Progress](https://github.com/mohak1712/fineract-cn-mobile-1/wiki)
 
-
-
-
-You can use the [editor on GitHub](https://github.com/openMF/mobileapps.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](
-```
-
--pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There is no reference application for a appp for managing external third party staff but partners like Mann India have built solutions like [Mimo](https://www.youtube.com/watch?v=JEIxgh6FH1w) 
