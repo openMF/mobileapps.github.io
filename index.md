@@ -35,16 +35,14 @@ Digital Credit Applications are client-facing apps for the self-service applicat
 # Mobile Wallets
 In all the following use cases below, the mobile wallet app provides a richer user interface to manage mobile or e-money balances as a store of value and a means of payment. The differences between the solutions outlined below are the holder of the wallet (client vs. merchant) and scope of the wallet (single digital money service vs multiple balances).
 
-<img src="/mobileapps.github.io/Screen-Shot-2017-08-08-at-6.48.27-AM (1).png" width="300">
-
-
 ## Consumer Wallet (single service)
 Mifos X/Fineract can be used to as a back-end account management system for mobile wallets. In this example a telco or mobile money provider or e-money issuer in general, could build upon the mobile wallet to provide a client or end user a richer user interface to fund their mobile wallet account, initiate transfers, view account details and transaction histories, and pay merchants at point of sale.
-- Mobile Wallet
+
+<img src="/Screen-Shot-2017-08-08-at-6.48.27-AM (1).png" width="300">
 
 ## Consumer Wallet
 A broader definition for the mobile wallet could be a wallet app like Google or Apple Pay whereby the wallet provides the ability to add multiple digital forms of payment in one unified account - this provides one interface in which to manage multiple digital money services, or even the ability to transfer between these digital money services.
-- Mobile Wallet 
+
 
 ## Merchant-Facing Wallet
 Similar to a consumer wallet, this would be a mobile wallet account for a merchant allowing them to accept electronic payments via QR code, view transaction details, generate invoices. Ideally it would also help them track sales by consumer as well. 
