@@ -24,9 +24,7 @@ Currently in its 3rd version, this is the reference mobile banking app built on 
 Currently in its first version, this is the reference mobile banking app built on top of Fineract CN - it currently only consumes a mock layer of data and is still to be integrated with the API gateway for Fineract CN. 
 
 ![Mifos Mobile CN](/assets/img/mifos-mobile-cn.jpg)
-
 ![Mifos Mobile CN Gif](/assets/img/mifos-mobileCN.gif)
-      
 
 ## Personal Financial Management App
 A PFM app would allow clients or small businesses to track their expenditures, savings, and cash flows to have better visibility into their financial well-being. This could be built as a stand-alone app or functionality as subset of a mobile wallet, mobile banking or digital credit app.
