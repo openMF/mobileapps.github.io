@@ -17,23 +17,19 @@ Mobile Banking Applications are essentially a mobile interface to allow for a cl
 Currently in its 3rd version, this is the reference mobile banking app built on top of Mifos X/Fineract 1.x that consumes the self-service APIs. It can be used out of the box or white-labeled for your institution. 
       
 ![Mifos Mobile](/assets/img/mifos-mobile.png)
-<img src="https://github.com/openMF/mobileapps.github.io/blob/master/68747470733a2f2f692e696d6775722e636f6d2f654e62465678302e676966%20(1).gif" width="300">
+
+![Mifos Mobile Gif](/assets/img/mifos-mobile.gif)
 
 ### Mifos Mobile CN (Fineract CN)
 Currently in its first version, this is the reference mobile banking app built on top of Fineract CN - it currently only consumes a mock layer of data and is still to be integrated with the API gateway for Fineract CN. 
 
-
-<img src="/assets/img/Screenshot_20170913-085024.jpg" width="300">
-
-![Mifos Mobile](/assets/img/ezgif-1-db53f1e385d1.gif)
-
 ![Mifos Mobile CN](/assets/img/mifos-mobile-cn.jpg)
+
+![Mifos Mobile CN Gif](/assets/img/mifos-mobileCN.gif)
       
-<img src="/68747470733a2f2f692e696d6775722e636f6d2f35534d506b69322e676966 (1).gif" width="300">
 
 ## Personal Financial Management App
 A PFM app would allow clients or small businesses to track their expenditures, savings, and cash flows to have better visibility into their financial well-being. This could be built as a stand-alone app or functionality as subset of a mobile wallet, mobile banking or digital credit app.
-
 
 ## Digital Credit App
 Digital Credit Applications are client-facing apps for the self-service application for, disbursement, and repayment of loans via a mobile phone. Leveraging mobile money, this lending limits in-person contact facilitating low-cost lending based on loan origination guided by big data and advanced analytics. 
@@ -50,7 +46,6 @@ Mifos X/Fineract can be used to as a back-end account management system for mobi
 ## Consumer Wallet
 A broader definition for the mobile wallet could be a wallet app like Google or Apple Pay whereby the wallet provides the ability to add multiple digital forms of payment in one unified account - this provides one interface in which to manage multiple digital money services, or even the ability to transfer between these digital money services.
 
-
 ## Merchant-Facing Wallet
 Similar to a consumer wallet, this would be a mobile wallet account for a merchant allowing them to accept electronic payments via QR code, view transaction details, generate invoices. Ideally it would also help them track sales by consumer as well. 
       
@@ -63,9 +58,8 @@ The Field Operations App enables a loan or field officer to conduct their daily 
 
 ![Android Client](/assets/img/android-client.png)
 
-
 ### Fineract CN Mobile
-Similar to the scope of Android Client for Fineract 1.x, this is the equivalent app but on top of Fineract CN. 
+Similar to the scope of Android Client for Fineract 1.x, this is the equivalent app but on top of Fineract CN.
 
 # Third Party/Agent Banking (External Staff)
 This is a mobile app to enable a network of third party staff or agents to conduct operations on behalf of the financial institution or network - these would include operations similar to that of the field operations app (client onboarding, collections, origination) but a deeper feature set including bill payments, e-commerce, and other merchant services. Given these are external agents, functionality around management of the agent is more robust including location tracking, task assignment and management, communications/notifications, handling of commissions, performance tracking, agent training and tracking of time. 
@@ -99,8 +93,6 @@ This is a mobile app to enable a network of third party staff or agents to condu
 - [Latest Progress]
 
 There is no reference digital credit app but good examples from the community that use Mifos on the back-end for loan management are Kwikcash from Mines.io and RuPie.  
-
-
 
 ## Staff Apps
 
